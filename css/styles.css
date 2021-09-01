@@ -1,0 +1,41 @@
+
+
+.image{
+display: block;
+width: 150px;
+height: 150px;
+
+position: absolute;
+margin-top: 34%;
+margin-left: 43%;
+}
+
+.button{
+  display: block;
+  background-color: pink;
+  height: 40px;
+  width: 60px;
+  position:absolute;
+  margin-top: 500px;
+  margin-left: 80%;
+}
+
+
+.ballimage{
+  position: absolute;
+  display: block;
+width: 40px;
+height: 40px;
+margin-top: 0%;
+margin-left: 47%;
+  margin-right: auto;
+
+
+}
+
+h1{
+
+  color: white;
+  position:absolute;
+  margin-left: 10px;
+}
